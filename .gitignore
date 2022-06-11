@@ -1,0 +1,6 @@
+# IDEA
+.idea/
+*.iml
+
+# Apple Desktop Services Store
+.DS_Store
